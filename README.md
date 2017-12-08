@@ -1,4 +1,4 @@
-# Final-Exam
+# Final-Exam - Sebastien FUZEAU et Emmanuelle PICARDAT
 
 Cet Exam final durera 1h30, et sera par groupe de 2.
 
